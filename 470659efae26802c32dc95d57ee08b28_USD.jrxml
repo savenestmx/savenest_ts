@@ -1920,7 +1920,7 @@ La Comisión supervisa exclusivamente la prestación de servicios de administrac
 							<font isBold="false"/>
 							<paragraph leftIndent="5"/>
 						</textElement>
-						<text><![CDATA[*Rendimientos e importes del presente reporte se encuentran en dólares americanos]]></text>
+						<text><![CDATA[*Rendimientos e importes en dólares americanos]]></text>
 					</staticText>
 					<staticText>
 						<reportElement x="270" y="0" width="100" height="30" forecolor="#FFFFFF" uuid="4bee9843-c38c-483d-b19e-2177e9b286fa"/>
